@@ -1,0 +1,2 @@
+https://www.google.com/maps/@39.4135271,-81.4577543,3a,75y,68.7h,89.21t/data=!3m7!1e1!3m5!1sXP7y05OrByX-qbwrXlfi-Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.7918616415257986%26panoid%3DXP7y05OrByX-qbwrXlfi-Q%26yaw%3D68.69616934536234!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D
+UMDCTF{Putnam Bridge, Marietta, OH 45750}
